@@ -24,4 +24,4 @@ After you install all required files and libraries go to **App Folder** and migr
 **Enjoy the application**
 
 ### Examples :
-<img src="https://github.com/barkhayot/python_complier/blob/main/screencapture-localhost-8000-runcode-2022-01-28-16_21_18.jpg" width="300" height="300" />
+<img src="https://github.com/barkhayot/python_complier/blob/main/screencapture-localhost-8000-runcode-2022-01-28-16_21_18.jpg" width="500" height="300" />
