@@ -3,3 +3,4 @@ backports.zoneinfo==0.2.1
 Django==4.0.1
 django-ace==1.0.11
 sqlparse==0.4.2
+gunicorn==20.1.0
