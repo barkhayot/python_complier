@@ -1,1 +1,1 @@
-web: gunicorn EditorCode.wsgi
+web: gunicorn EditorCode.wsgi --log-file -
